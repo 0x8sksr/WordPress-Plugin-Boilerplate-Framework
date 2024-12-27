@@ -32,8 +32,7 @@ It's safe to activate the plugin at this point. Because the Boilerplate has no r
 
 ## WordPress.org Preparation
 
-The original launch of this version of the boilerplate included the folder structure needed for using your plugin on WordPress.org. That folder structure has been moved to its own repo here: https://github.com/DevinVinson/Plugin-Directory-Boilerplate
-
+The original launch of this version of the boilerplate included the folder structure needed for using your plugin on WordPress.org.
 ## Recommended Tools
 
 ### i18n Tools
